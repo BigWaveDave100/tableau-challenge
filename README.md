@@ -89,3 +89,7 @@ In answering the question of "why" a phenomenon is occurring, consider adding ot
 Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered everything that you’ll need—so keep an eye out for new tricks!
 
 Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst.
+
+### Link to Tableau Public Page:
+
+https://public.tableau.com/app/profile/david.henderson7094/vizzes
